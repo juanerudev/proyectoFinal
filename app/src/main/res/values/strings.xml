@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Star Wars Universe</string>
+    <string name="home_title">Star Wars Universe Explorer</string>
+    <string name="may_the_force">May the Force be with you</string>
+    <string name="people">Personajes</string>
+    <string name="films">Películas</string>
+    <string name="planets">Planetas</string>
+    <string name="starships">Naves Espaciales</string>
+    <string name="vehicles">Vehículos</string>
+    <string name="search_hint">Buscar personajes...</string>
+    <string name="loading">Cargando...</string>
+    <string name="error_loading">Error al cargar datos</string>
+</resources>
